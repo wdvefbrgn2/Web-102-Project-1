@@ -37,7 +37,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was difficult to get the flexbox working and all the images the same size
 
 ## License
 
