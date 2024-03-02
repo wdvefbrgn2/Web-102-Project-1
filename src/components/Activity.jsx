@@ -1,6 +1,6 @@
 import React from "react";
 //import './Activity.css';
-
+// Hello
 const Activity = ({name, review, imageUrl}) => {
     return (
         <div className ="Activity">
